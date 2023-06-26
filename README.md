@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razan Aqila</h1>
 <h3 align="center">I'm A New Web Developer & Bot Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razn-id&label=Profile%20views&color=0e75b6&style=flat" alt="razn-id" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razn-id" alt="razn-id" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, CSS, Bootstrap**
 
 - 👨‍💻 All of my projects are available at [www.rivqi.my.id](www.rivqi.my.id)
@@ -14,7 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/razanofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razanofc" height="30" width="40" /></a>
+<a href="https://fb.com/razanaqila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanaqila" height="30" width="40" /></a>
 <a href="https://instagram.com/rivqi.ajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rivqi.ajaa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/raznaaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raznaaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,9 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/rivqi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rivqi" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razn-id&show_icons=true&locale=en&layout=compact" alt="razn-id" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razn-id&show_icons=true&locale=en" alt="razn-id" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razn-id&" alt="razn-id" /></p>
