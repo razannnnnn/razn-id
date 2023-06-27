@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=4500&pause=100&color=F7F700&center=true&vCenter=true&width=1000&lines=Hello+i'am+Razan+Aqila.+13+YO;i'am+a+newbie+developer;Curently+i'am+learning+HTM%2C+CSS%2C+and+Javascript" alt="Typing SVG" /></a>
 </h1>
 
-## Hello, Im [Razan Aqila](https://instagram.com/rivqi.ajaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello, Im [Razan Aqila](https://instagram.com/rivqi.ajaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
 [<img src="https://img.shields.io/badge/Website-rivqi.my.id-blue">](www.rivqi.my.id)
 [<img src="https://img.shields.io/badge/Email-razzaan@protonmail.com-purple">](mailto:razzaan@protonmail.com)
 <a href="https://www.instagram.com/rivqi.ajaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
