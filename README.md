@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=600&color=FF0000&center=true&vCenter=true&width=800&lines=Hello%2C+I'am+Razan+Aqila.+13+YO;I'am+A+New+Web+Developer;Curently%2C+I'am+Learning+HTML%2C+CSS%2C++And+Javascript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&pause=600&color=FFEE00&center=true&vCenter=true&width=700&lines=Hello%2C+I'am+Razan+Aqila.+13+YO;I'am+A+New+Web+Developer;Curently%2C+I'am+Learning+HTML%2C+CSS%2C++And+Javascript" alt="Typing SVG" /></a>
 </h1>
 
 ## Hello, Im [Razan Aqila](https://instagram.com/rivqi.ajaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
@@ -44,8 +44,10 @@
 <p><a href="https://ko-fi.com/rivqi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rivqi" /></a></p>
 
 <br></br>
+
+## Account Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razn-id&show_icons=true&locale=en&layout=compact" alt="razn-id" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=razn-id&show_icons=true&locale=en" alt="razn-id" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razn-id&show_icons=true&locale=en" alt="razn-id" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=razn-id&" alt="razn-id" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razn-id&" alt="razn-id" /></p>
