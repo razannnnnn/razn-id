@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [Baileys - Library](https://github.com/razn-id/Baileys-Library)
 
-- 👨‍💻 All of my projects are available at [www.rivqi.my.id](www.rivqi.my.id)
+- 👨‍💻 All of my projects are available at [www.rivqi.my.id](https://www.rivqi.my.id)
 
-- 📝 I regularly write articles on [blog.rivqi.my.id](blog.rivqi.my.id)
+- 📝 I regularly write articles on [blog.rivqi.my.id](https://blog.rivqi.my.id)
 
 - 💬 Ask me about **Simple Javascript, HTML**
 
