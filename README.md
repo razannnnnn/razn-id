@@ -28,7 +28,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/razanofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razanofc" height="30" width="40" /></a>
-<a href="https://fb.com/razanaqila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanaqila" height="30" width="40" /></a>
+<a href="https://fb.com/razan.ajaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanaqila" height="30" width="40" /></a>
 <a href="https://instagram.com/rivqi.ajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rivqi.ajaa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/raznaaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raznaaq" height="30" width="40" /></a>
 </p>
