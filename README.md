@@ -3,7 +3,7 @@
 </h1>
 
 ## Hello, Im [Razan Aqila](https://instagram.com/rivqi.ajaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
-[<img src="https://img.shields.io/badge/Website-rivqi.my.id-blue">](www.rivqi.my.id)
+[<img src="https://img.shields.io/badge/Website-rivqi.my.id-blue">](https://www.rivqi.my.id)
 [<img src="https://img.shields.io/badge/Email-razzaan@protonmail.com-purple">](mailto:razzaan@protonmail.com)
 <a href="https://www.instagram.com/rivqi.ajaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6282228104562" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
