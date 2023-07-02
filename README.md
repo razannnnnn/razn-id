@@ -38,7 +38,7 @@
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Baileys-Library&theme=highcontrast)](https://github.com/razn-id/Baileys-Library)
 
 ## Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,mongodb,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,mongodb,vscode,git,bash)](https://skillicons.dev)
 ## Support :
 <p><a href="https://ko-fi.com/rivqi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rivqi" /></a></p>
 
