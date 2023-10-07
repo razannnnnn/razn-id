@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&pause=600&color=FFEE00&center=true&vCenter=true&width=700&lines=Hello%2C+I'am+Razan+Aqila.+13+YO;I'am+A+New+Web+Developer;Curently%2C+I'am+Learning+HTML%2C+CSS%2C++And+Javascript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&pause=600&color=FFEE00&center=true&vCenter=true&width=700&lines=Hello%2C+I'am+Razan+Aqila.+14+YO;I'am+A+New+Web+Developer;Curently%2C+I'am+Learning+HTML%2C+CSS%2C++And+Javascript" alt="Typing SVG" /></a>
 </h1>
 
 ## Hello, Im [Razan Aqila](https://instagram.com/rivqi.ajaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
