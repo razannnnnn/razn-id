@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning *Javascript, CSS, Bootstrap*
 - 🤝 I’m looking for help with [Baileys - Library](https://github.com/razn-id/Baileys-Library)
 - 👨‍💻 My projects are available at [www.rivqi.my.id](https://www.rivqi.my.id)
-- 📝 I regularly write articles on [blog.rivqi.my.id](https://blog.rivqi.my.id)
 - 💬 Ask me about **Simple Javascript, HTML**
 - 📫 How to reach me **razzaan@protonmail.com**
 - ⚡ Fun fact **I a programers 😁**
