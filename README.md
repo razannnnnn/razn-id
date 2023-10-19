@@ -1,28 +1,13 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira+code&duration=4500&pause=600&color=FFEE00&center=true&vCenter=true&width=700&lines=Hello%2C+I'am+Razan+Aqila.+14+YO;I'am+A+New+Web+Developer;Curently%2C+I'am+Learning+HTML%2C+CSS%2C++And+Javascript" alt="Typing SVG" /></a>
-</h1>
-
-## Hello, Im [Razan Aqila](https://instagram.com/rivqi.ajaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 😎
-[<img src="https://img.shields.io/badge/Website-rivqi.my.id-blue">](https://www.rivqi.my.id)
-[<img src="https://img.shields.io/badge/Email-razzaan@protonmail.com-purple">](mailto:razzaan@protonmail.com)
-<a href="https://www.instagram.com/rivqi.ajaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/6282228104562" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-[![GitHub razn-id](https://img.shields.io/github/followers/razn-id?label=follow&style=social)](https://github.com/razn-id)
+# 🦈 Razan Aqila
+**`New Developer (Javascript, Express, Node.js)`**
 
 - 🔭 I Don't Work, I Just Do My Hobby [Razanbot - Md](https://github.com/razn-id/Razanbot-Md)
-
-- 🌱 I’m currently learning **Javascript, CSS, Bootstrap**
-
+- 🌱 I’m currently learning **Javascript, CSS, Bootstrap*
 - 🤝 I’m looking for help with [Baileys - Library](https://github.com/razn-id/Baileys-Library)
-
 - 👨‍💻 All of my projects are available at [www.rivqi.my.id](https://www.rivqi.my.id)
-
 - 📝 I regularly write articles on [blog.rivqi.my.id](https://blog.rivqi.my.id)
-
 - 💬 Ask me about **Simple Javascript, HTML**
-
 - 📫 How to reach me **razzaan@protonmail.com**
-
 - ⚡ Fun fact **I a programers 😁**
 
 ## Connect with me:
