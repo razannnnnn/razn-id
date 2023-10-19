@@ -9,6 +9,8 @@
 - 📫 How to reach me **razzaan@protonmail.com**
 - ⚡ Fun fact **I a programers 😁**
 
+---
+
 ### Connect with me:
 
 <a href="https://twitter.com/razanofc" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razanofc" height="30" width="40" /></a>
