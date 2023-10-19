@@ -34,8 +34,8 @@
 </p>
 
 ## Repo Stats :
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Razanbot-Md&theme=highcontrast)](https://github.com/razn-id/Razanbot-Md)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Api-Razan&theme=highcontrast)](https://github.com/razn-id/Api-Razan)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Razanbot-Md&theme=dracula)](https://github.com/razn-id/Razanbot-Md)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Api-Razan&theme=dracula)](https://github.com/razn-id/Api-Razan)
 
 ## Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,mongodb,vscode,git,bash)](https://skillicons.dev)
@@ -45,8 +45,7 @@
 <br></br>
 
 ## Account Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razn-id&show_icons=true&locale=en&layout=compact" alt="razn-id" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razn-id&show_icons=true&locale=en&layout=compact&theme=dark" alt="razn-id" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razn-id&show_icons=true&locale=en" alt="razn-id" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razn-id&show_icons=true&locale=en&theme=dark" alt="razn-id" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razn-id&" alt="razn-id" /></p>
