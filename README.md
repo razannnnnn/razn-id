@@ -4,7 +4,7 @@
 - 🔭 I Just Do My Hobby [Razanbot - Md](https://github.com/razn-id/Razanbot-Md)
 - 🌱 I’m currently learning *Javascript, CSS, Bootstrap*
 - 🤝 I’m looking for help with [Baileys - Library](https://github.com/razn-id/Baileys-Library)
-- 👨‍💻 All of my projects are available at [www.rivqi.my.id](https://www.rivqi.my.id)
+- 👨‍💻 My projects are available at [www.rivqi.my.id](https://www.rivqi.my.id)
 - 📝 I regularly write articles on [blog.rivqi.my.id](https://blog.rivqi.my.id)
 - 💬 Ask me about **Simple Javascript, HTML**
 - 📫 How to reach me **razzaan@protonmail.com**
