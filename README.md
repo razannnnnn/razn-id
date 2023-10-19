@@ -35,7 +35,7 @@
 
 ## Repo Stats :
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Razanbot-Md&theme=highcontrast)](https://github.com/razn-id/Razanbot-Md)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Baileys-Library&theme=highcontrast)](https://github.com/razn-id/Baileys-Library)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Api-Razan&theme=highcontrast)](https://github.com/razn-id/Api-Razan)
 
 ## Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,mongodb,vscode,git,bash)](https://skillicons.dev)
