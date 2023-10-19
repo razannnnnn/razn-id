@@ -26,8 +26,9 @@
 <details>
   <summary>:zap: Repo Stats</summary>
   
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Razanbot-Md&theme=dracula)](https://github.com/razn-id/Razanbot-Md)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Api-Razan&theme=dracula)](https://github.com/razn-id/Api-Razan)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=razn-id&repo=Razanbot-Md&theme=dracula)](https://github.com/razn-id/Razanbot-Md)
+
 </details>
 <details>
   <summary>:zap: GitHub Stats</summary>
