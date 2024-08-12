@@ -11,14 +11,6 @@
 
 ---
 
-### Connect with me:
-
-<a href="https://twitter.com/razanofc" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razanofc" height="30" width="40" /></a>
-<a href="https://fb.com/razan.ajaaa" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razanaqila" height="30" width="40" /></a>
-<a href="https://instagram.com/rivqi.ajaa" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rivqi.ajaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/raznaaq" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raznaaq" height="30" width="40" /></a>
-<br>
-
 ### Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express,mongodb,vscode,git,bash)](https://skillicons.dev)
 
